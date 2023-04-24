@@ -37,7 +37,7 @@
     "typescript": "^4.9.5"
   },
   "scripts": {
-    "start": "ts-node ./src/bot.ts",
+    "start": "npx ts-node ./src/bot.ts",
     "debug": "ts-node-esm ./src/bot.ts --debug",
     "deployCommands": "ts-node ./src/deploy-commands.ts"
   }
