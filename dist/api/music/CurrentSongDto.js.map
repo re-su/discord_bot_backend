@@ -1,0 +1,1 @@
+{"version":3,"file":"CurrentSongDto.js","sourceRoot":"","sources":["../../../src/api/music/CurrentSongDto.ts"],"names":[],"mappings":";;;AACA,uCAAoC;AAEpC,MAAa,cAAe,SAAQ,iBAAO;IAGvC,YAAY,IAAU,EAAE,gBAAqB;QACzC,KAAK,CAAC,IAAI,CAAC,CAAC;QACZ,IAAI,CAAC,gBAAgB,GAAG,gBAAgB,CAAC;IAC7C,CAAC;CACJ;AAPD,wCAOC"}

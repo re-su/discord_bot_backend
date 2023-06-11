@@ -1,0 +1,1 @@
+{"version":3,"file":"AuthUtils.js","sourceRoot":"","sources":["../../src/api/AuthUtils.ts"],"names":[],"mappings":";;AAEA,SAAwB,eAAe,CAAC,GAAQ,EAAE,GAAQ,EAAE,IAAkB;IAC1E,IAAI,GAAG,CAAC,eAAe,EAAE,EAAE;QACvB,OAAO,IAAI,EAAE,CAAC;KACjB;IACD,GAAG,CAAC,MAAM,CAAC,GAAG,CAAC,CAAC;IAChB,GAAG,CAAC,IAAI,CAAC,kBAAkB,CAAC,CAAC;AACjC,CAAC;AAND,kCAMC"}

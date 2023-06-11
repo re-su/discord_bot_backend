@@ -2,7 +2,7 @@ import { CustomConnection } from "../../music-bot/connection/CustomConnection";
 import { CustomConnectionService } from "../../music-bot/connection/CustomConnectionService";
 import { Queue } from "../../music-bot/queue/Queue";
 import { QueueDto } from "../music/QueueDto";
-import { SocketService } from "../utils/SocketService";
+import { SocketService } from "../socket/SocketService";
 
 export enum Event {
     RefreshQueue = "refresh_queue"

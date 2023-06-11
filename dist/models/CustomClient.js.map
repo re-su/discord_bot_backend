@@ -1,0 +1,1 @@
+{"version":3,"file":"CustomClient.js","sourceRoot":"","sources":["../../src/models/CustomClient.ts"],"names":[],"mappings":";;;AAAA,2CAA8D;AAG9D,MAAM,YAAa,SAAQ,mBAAM;IAE/B,YAAY,OAAqB;QAChC,KAAK,CAAC,OAAO,CAAC,CAAA;QACd,IAAI,CAAC,QAAQ,GAAG,IAAI,uBAAU,EAAmB,CAAC;IACnD,CAAC;CACF;AAEQ,oCAAY"}
